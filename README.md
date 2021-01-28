@@ -1,6 +1,6 @@
-# chatapp
+# Chatty
 
-A new Flutter project.
+A simple chatting Flutter project.
 
 ## Getting Started
 
